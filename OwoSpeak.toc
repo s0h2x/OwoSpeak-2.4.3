@@ -1,0 +1,10 @@
+## Interface: 20400
+## Version: 1.0.5
+## Title: OwoSpeak
+## Notes: Pwease owo wesponsibwy
+## Author: Ketho
+## SavedVariables: OwoSpeakDB
+## X-Curse-Project-ID: 339039
+## X-WoWI-ID: 25199
+
+OwoSpeak.lua
